@@ -58,7 +58,7 @@
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.3.0",
+    "webpack-dev-server": "2.5.1",
     "xunit-file": "^1.0.0"
   },
   "keywords": [
